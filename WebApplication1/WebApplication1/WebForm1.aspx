@@ -11,6 +11,7 @@
     <div>
         <asp:TextBox Text="GIT Testing" runat="server" ID="txtTest" ></asp:TextBox>
         <asp:Button ID="btnClick" Text="Click" OnClick="btnClick_Click" runat="server" />
+        <asp:TextBox ID="txtnew" Text="New text box" runat="server"></asp:TextBox>
     </div>
     </form>
 </body>
